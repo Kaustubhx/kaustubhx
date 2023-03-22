@@ -5,7 +5,8 @@ I am Front End developer.
 --------------------------
 
 *   🌍  I'm from Maharashtra, India
-*   🧠  In my free time I make popular website clone(s)
+*   🧠  Currently learning Typescript
+*   🖥️  You can see my Portfolio at <a target="_blank" rel="noreferrer" href="https://kaustubhx-portfolio.vercel.app/">Portfolio</a>
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
