@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://kaustubhx-portfolio.vercel.app/](kaustubhx-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://kaustubhx-portfolio.vercel.app/](https://kaustubhx-portfolio.vercel.app/)
 
 - 💬 Ask me about **NextJS 13**
 
