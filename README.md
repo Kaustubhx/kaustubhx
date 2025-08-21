@@ -2,11 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://kaustubhx-portfolio.vercel.app/](https://kaustubhx-portfolio.vercel.app/)
 
-- 💬 Ask me about **NextJS 13**
+- 💬 Ask me about **NextJS**
 
 - 📫 How to reach me **kaustubhxganekar@gmail.com**
 
