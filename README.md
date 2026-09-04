@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kaustubh Ganekar
 ========================================================================================================================================
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://kaustubhx.vercel.app/](https://kaustubhx.vercel.app/)
 
-- 💬 Ask me about **NextJS**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **kaustubhxganekar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaustubh ganekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh ganekar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaustubhganekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh ganekar" height="30" width="40" /></a>
 <a href="https://instagram.com/kaustubhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubhx" height="30" width="40" /></a>
 </p>
 
